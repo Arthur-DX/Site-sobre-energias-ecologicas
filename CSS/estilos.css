@@ -39,9 +39,6 @@ body {
     justify-content: space-around;
     gap: 25px;
 }
-.card :hover {
-    background-color: #b6b9a7;
-}
 .card {
     flex: 1;
     background-color: #E8ECD7;
